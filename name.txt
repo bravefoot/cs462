@@ -1,1 +1,7 @@
 Brian Campbell
+AMI id: ami-ac8cfcc4
+User data script
+#!/bin/bash
+wget https://github.com/bravefoot/cs462/archive/master.zip
+unzip master.zip
+sh ./cs462-master/bootstrap.sh

@@ -4,3 +4,4 @@
 #sh ./cs462-master/bootstrap.sh
 rm /var/www/index.html
 cp cs462-master/name.html /var/www/html/index.html
+cp cs462-master/cougar.byu /var/www/html/cougar.byu

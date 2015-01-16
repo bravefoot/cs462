@@ -5,3 +5,5 @@
 rm /var/www/index.html
 cp cs462-master/name.html /var/www/html/index.html
 cp cs462-master/cougar.byu /var/www/html/cougar.byu
+mkdir /var/www/html/cgi-bin
+cp cs462-master/cgi-bin/echo.py /var/www/html/cgi-bin/echo.py
